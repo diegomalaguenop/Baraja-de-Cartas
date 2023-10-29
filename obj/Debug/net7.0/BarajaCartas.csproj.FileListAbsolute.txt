@@ -1,0 +1,14 @@
+C:\Aplicaciones\Coding dojo\Clases\C#\BarajaCartas\bin\Debug\net7.0\BarajaCartas.exe
+C:\Aplicaciones\Coding dojo\Clases\C#\BarajaCartas\bin\Debug\net7.0\BarajaCartas.deps.json
+C:\Aplicaciones\Coding dojo\Clases\C#\BarajaCartas\bin\Debug\net7.0\BarajaCartas.runtimeconfig.json
+C:\Aplicaciones\Coding dojo\Clases\C#\BarajaCartas\bin\Debug\net7.0\BarajaCartas.dll
+C:\Aplicaciones\Coding dojo\Clases\C#\BarajaCartas\bin\Debug\net7.0\BarajaCartas.pdb
+C:\Aplicaciones\Coding dojo\Clases\C#\BarajaCartas\obj\Debug\net7.0\BarajaCartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aplicaciones\Coding dojo\Clases\C#\BarajaCartas\obj\Debug\net7.0\BarajaCartas.AssemblyInfoInputs.cache
+C:\Aplicaciones\Coding dojo\Clases\C#\BarajaCartas\obj\Debug\net7.0\BarajaCartas.AssemblyInfo.cs
+C:\Aplicaciones\Coding dojo\Clases\C#\BarajaCartas\obj\Debug\net7.0\BarajaCartas.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\Coding dojo\Clases\C#\BarajaCartas\obj\Debug\net7.0\BarajaCartas.dll
+C:\Aplicaciones\Coding dojo\Clases\C#\BarajaCartas\obj\Debug\net7.0\refint\BarajaCartas.dll
+C:\Aplicaciones\Coding dojo\Clases\C#\BarajaCartas\obj\Debug\net7.0\BarajaCartas.pdb
+C:\Aplicaciones\Coding dojo\Clases\C#\BarajaCartas\obj\Debug\net7.0\BarajaCartas.genruntimeconfig.cache
+C:\Aplicaciones\Coding dojo\Clases\C#\BarajaCartas\obj\Debug\net7.0\ref\BarajaCartas.dll
